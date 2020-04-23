@@ -2,9 +2,9 @@
 
 ### Background
 
-	Growing concerns with environmental issues have led to the consideration of alternatives to urban mobility. Among available options, electric vehicles (EV) have been considered in advantage in terms of sustainability as well as emission of pollutants. This work using Gorubi optimizer and K-means to optimize the EV charging station allocation in NewYork City.
+Growing concerns with environmental issues have led to the consideration of alternatives to urban mobility. Among available options, electric vehicles (EV) have been considered in advantage in terms of sustainability as well as emission of pollutants. This work using Gorubi optimizer and K-means to optimize the EV charging station allocation in NewYork City.
 
-	At present, there are three levels of chargers in the EV market. The charging time, construction and labor costs are different according to the chargers’ level. Through investigating, there are 361 charging stations, each charging station averagely has 1-3 chargers of different levels, most of them has 2 chargers and the level 2 charger is the most general. In addition, New York City has 6551 registered EV on the road. 
+At present, there are three levels of chargers in the EV market. The charging time, construction and labor costs are different according to the chargers’ level. Through investigating, there are 361 charging stations, each charging station averagely has 1-3 chargers of different levels, most of them has 2 chargers and the level 2 charger is the most general. In addition, New York City has 6551 registered EV on the road. 
 
 
 ### Data Resources
